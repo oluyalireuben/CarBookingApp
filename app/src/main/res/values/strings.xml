@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CarBooking</string>
+    <string-array name="booking_options">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+    </string-array>
+</resources>
